@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase SignIn</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="sign_out">Sign-Out</string>
+    <string name="google_sign_in">Sign-In with Google</string>
+    <string name="google_sign_out">Sign-Out with Google</string>
+</resources>
